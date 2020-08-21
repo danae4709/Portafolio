@@ -2,12 +2,23 @@ header {
   background-image: url("../img/bg-hero.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: left;
+  background-position: center;
   padding-bottom: 10rem;
+  font-family: 'Fjalla One', sans-serif;
+}
+
+.portada {
+  width: 100;
+}
+.linea2{
+  border-bottom: 3px solid #ffffff;
+  padding-bottom: 20px;
+  display: inline-block;
+  text-align: center
 }
 
 body{
-  font-family: 'Fjalla', sans-serif;
+  font-family:'Hind Vadodara', cursive;
 }
 
 .relleno{
@@ -24,7 +35,7 @@ body{
 }
 
 .linea {
-  border-bottom: 1px solid #707070;
+  border-bottom: 3px solid #707070;
   padding-bottom: 10px;
   display: inline-block;
   text-align: center;
